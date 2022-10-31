@@ -18,3 +18,9 @@
 
 ### figma : https://www.figma.com/file/2WQQ3JD2URjdWfLej0zyJc/IGNITE-LAB?node-id=0%3A1
 ### link : 
+
+<div  align="center">
+  <img src="https://user-images.githubusercontent.com/90284411/198910058-2bfdc915-bd50-4317-93ad-0e7d4d97fc56.png"></img>
+</div>
+
+## Tecnologias 
