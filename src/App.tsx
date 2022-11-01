@@ -25,7 +25,7 @@ export function App() {
         </Text>
       </header>
 
-      <form className="flex flex-col gap-4 items-stretch w-full max-w-sm mt-10">
+      <form className="flex flex-col gap-4 items-stretch w-full max-w-sm mt-6">
         <label htmlFor="email" className="flex flex-col gap-3">
           <Text className="font-semibold">Endereço de e-mail</Text>
           <TextInput.Root>
